@@ -1,0 +1,26 @@
+{
+  "name": "twilio-hub",
+  "version": "0.0.0",
+  "description": "",
+  "author": "kajoban <kuhapark@mcmaster.ca>",
+  "main": "functions/__main__.js",
+  "dependencies": {
+    "firebase-admin": "^6.2.0",
+    "lib": "^3.0.1",
+    "mongodb": "^3.1.10",
+    "mongodb-core": "^3.1.9",
+    "request": "^2.81.0",
+    "twilio": "^3.3.0"
+  },
+  "private": true,
+  "stdlib": {
+    "build": "faaslang",
+    "name": "kajoban/twilio-hub",
+    "timeout": 10000,
+    "personalize": {
+      "keys": [],
+      "user": []
+    },
+    "source": "twilio"
+  }
+}
