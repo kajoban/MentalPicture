@@ -1,4 +1,4 @@
-# MentalPicture
+﻿# MentalPicture
 
 ## What is it?
 
@@ -11,10 +11,15 @@ Utilized Node.js and Stdlib to build API endpoints.
 Utilized Twilio to build the SMS bot, and MongoDB to store survey results
 Built front end with React and Victory to render interactive graphs
 
-## Read More
+## How to run it:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In the project directory, you can run:
+### `npm start`
+
+## Read More:
 https://devpost.com/software/mental-picture
 
-## The Team
+## The Team:
 * [Jaison Loodu](https://github.com/Jailoodu)
 * [Rachel Johnson](https://github.com/rachelj1098)
 * [Lisa O'Brien](https://github.com/ldobrien)
